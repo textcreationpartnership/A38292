@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes and orders of the honourable House of Commons passed February 25 &amp; 26, 1662 upon reading His Majesties gracious declaration &amp; speech together with their reasons and address humbly presented to His Majesty (the whole House present) by their speaker ... on Saturday Feb. 28 ... : with his speech at the delivery thereof : and his report of the substance of His Majesties gracious answer thereunto.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38292</idno>
+            <idno type="STC">Wing E2758</idno>
+            <idno type="STC">ESTC R25077</idno>
+            <idno type="EEBO-CITATION">08743758</idno>
+            <idno type="OCLC">ocm 08743758</idno>
+            <idno type="VID">41721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes and orders of the honourable House of Commons passed February 25 &amp; 26, 1662 upon reading His Majesties gracious declaration &amp; speech together with their reasons and address humbly presented to His Majesty (the whole House present) by their speaker ... on Saturday Feb. 28 ... : with his speech at the delivery thereof : and his report of the substance of His Majesties gracious answer thereunto.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41721:1"/>
+            <!-- PDF PAGE 57 -->
+            <p>THE Votes and Orders Of the Honorable Houſe of Commons, Paſſed <hi>February</hi> 25, &amp; 26. 1662.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon Reading His Majeſties Gracious</hi> DECLARATION &amp; SPEECH: Together with their Reaſons and Addreſs, Humbly preſented to His Majeſty (The whole Houſe preſent) By their Speaker Sir <hi>Edward Turner,</hi> Knight &amp; Baronet, On <hi>Saturday, Feb.</hi> 28. in the Banquetting-Houſe at <hi>Whitehall. With his Speech at the delivery thereof;</hi>
+            </p>
+            <p>And his Report of the Subſtance of His <hi>Majeſties gracious Anſwer thereunto.</hi>
+            </p>
+            <figure>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Maieſty, 1662.</p>
+            <p>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="documents">
+            <pb facs="tcp:41721:2"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="3" facs="tcp:41721:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>THE Votes &amp; Orders Of the Honourable Houſe of Commons paſſed Febr. 25. &amp; 26. 1662. upon reading His Majeſties Gracious Declaration and Speech, &amp;c.</head>
+            <p>THe honourable Houſe of Commons having appoin<g ref="char:EOLhyphen"/>ted <hi>Wedneſday</hi> the 25. of this Moneth for the reading his Majeſties Gracious Declaration of the ſix and twenti<g ref="char:EOLhyphen"/>eth of <hi>December</hi> laſt, and his Speech made at the open<g ref="char:EOLhyphen"/>ing of this Seſſion; and the ſame being then read and taken into mature debate and conſideration; The Houſe proceeded to paſs theſe Votes and Orders following, <hi>viz.</hi>
+            </p>
+            <div type="Parliamentary_resolutions">
+               <opener>
+                  <dateline>
+                     <date>Mercurii 25. Feb. 15.</date>
+                  </dateline> Car. R.</opener>
+               <p>Upon Conſideration had by the Houſe, of the Kings Majeſties Declaration and Speech,</p>
+               <p>Reſolved upon the Queſtion, <hi>nemine contradicente,</hi>
+                  <lb/>
+                  <q>THat the humble thanks of this Houſe be returned to the Kings Maieſty, for his conſtancy in the Obſervation of the Act of Indempnity.</q>
+               </p>
+               <p>Reſolved, &amp;c. <hi>nemine contradicente,</hi>
+                  <lb/>
+                  <q>That the humble thanks of this Houſe be re<g ref="char:EOLhyphen"/>turned to the Kings Majeſty, for His Profeſsi<g ref="char:EOLhyphen"/>on againſt Introducing a Government by a Military Power.</q>
+               </p>
+               <p>
+                  <pb n="4" facs="tcp:41721:3"/>
+                  <!-- PDF PAGE 59 -->
+Reſolved, &amp;c. <hi>nemine contradicente,</hi>
+                  <lb/>
+                  <q>That the humble thanks of this Houſe be returned to His Majeſty for His gracious In<g ref="char:EOLhyphen"/>vitation to this Houſe to prepare ſome Laws againſt the growth and progreſs of Popery.</q>
+               </p>
+               <p>Reſolved, &amp;c. <hi>nemine contradicente,</hi>
+                  <lb/>
+                  <q>That the humble thanks of this Houſe be re<g ref="char:EOLhyphen"/>turned to His Majeſty, for His Reſolution to maintain the Act of Vniformity.</q>
+               </p>
+               <p>Reſolved, &amp;c. <hi>nemine contradicente,</hi>
+                  <lb/>
+                  <q>That the humble thanks of this Houſe be re<g ref="char:EOLhyphen"/>turned to His Majeſty for his Gracious re<g ref="char:EOLhyphen"/>commendations to this Houſe to prepare Laws againſt Licentiouſneſs and Impiety<g ref="char:punc">▪</g> and alſo to provide Sumptuary Laws, and Laws for the Advance of Trade, and for His Majeſties gracious Expreſsions to retrench the Charge and Expences in His own Family.</q>
+               </p>
+               <p>Reſolved, &amp;c.<lb/>
+                  <q>That it be preſented to the Kings Majeſty as the Humble Advice of this Houſe, That no Indulgence be granted to the Diſſenters from the Act of Vniformity.</q>
+               </p>
+               <p>Ordered,<lb/>
+                  <q>That a Committee be appointed to collect and bring in the Reaſons of this Houſe for this Vote upon the preſent Debate, to be preſented to His Majeſty; and that the nominating of the Committee be adjourned till to morrow mor<g ref="char:EOLhyphen"/>ning.</q>
+               </p>
+            </div>
+            <div type="Parliamentary_resolutions">
+               <pb n="5" facs="tcp:41721:3"/>
+               <!-- PDF PAGE 59 -->
+               <opener>
+                  <dateline>
+                     <date>Jovis 26. Feb. 15.</date>
+                  </dateline> Car. R.</opener>
+               <p>Reſolved, &amp;c.<lb/>
+                  <q>That in the cloſe of the Reaſons to be preſen<g ref="char:EOLhyphen"/>ted to His Majeſty for the Vote of Advice; it be alſo added, That this Houſe will aſsiſt His Majeſty with their Lives and Fortunes, and That the Committee appointed to bring in the Reaſons do pen an Addreſs for that purpoſe to His Majeſty.</q>
+               </p>
+               <p>And the Committee appointed to bring in the Rea<g ref="char:EOLhyphen"/>ſons and Addreſs before directed, having met, and agreed the ſame, Sir <hi>Heneage Finch,</hi> His Majeſties Sol<g ref="char:EOLhyphen"/>licitor General, made Report thereof to the Houſe on Fryday the Twenty ſeventh of this Month, and the ſame being twice read, and ſome ſmall Amendments and Additions made thereto, and the Reaſons and Ad<g ref="char:EOLhyphen"/>dreſs ſo agreed, ordered to be fair written.</p>
+               <p>A Meſſage was ſent to His Majeſty by Sir <hi>William Compton</hi> and others of His Majeſties Privy Councel, Members of the Houſe, to deſire leave of His Majeſty, that the Houſe might wait on him at ſuch time and place as His Majeſty ſhould appoint.</p>
+               <p>And His Majeſty being attended, Sir <hi>William Comp<g ref="char:EOLhyphen"/>ton</hi> on Saturday made report, That His Majeſty did moſt graciouſly receive the Meſſage, as He did all things that came from that Houſe, and to teſtifie he did ſo, had appointed the ſhorteſt time He could to be attended, which was this preſent Saturday, at Three of the clock in the afternoon, in the <hi>Banquetting-houſe</hi> at <hi>Whitehall:</hi> and the Houſe thereupon adjourning till Two of the Clock in the afternoon, and being then met again, Mr. <hi>Speaker</hi> with the whole Houſe went from thence to <hi>Whitehall</hi> to attend His Majeſty, and Mr. <hi>Speaker</hi> de<g ref="char:EOLhyphen"/>livered himſelf in manner following.</p>
+               <q>
+                  <pb n="6" facs="tcp:41721:4"/>
+                  <!-- PDF PAGE 60 -->
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <opener>
+                              <salute>Moſt Gracious Sovereign,</salute>
+                           </opener>
+                           <p>THe Knights, Citizens, and Burgeſſes of the Commons Houſe of Parliament, did with great joy receive Your Majeſties most Gra<g ref="char:EOLhyphen"/>cious Speech, at the opening this Seſsion of Par<g ref="char:EOLhyphen"/>liament: And being thereby invited to conſider of Your Declaration of the Twenty ſixth of <hi>De<g ref="char:EOLhyphen"/>cember</hi> laſt; they have with all Sobriety, Duty, and Affection, examined the grounds thereof; and do by me preſent unto Your Majeſty, their most hearty Thanks for the ſame, and humble Ad<g ref="char:EOLhyphen"/>vice thereupon; both which, I do beſeech Your Majeſty that You will vouchſafe me to deliver in their own words.</p>
+                           <p>
+                              <hi>May it pleaſe Your most Excellent Majeſty,</hi>
+                              <lb/>
+WE your Majeſties moſt Duti<g ref="char:EOLhyphen"/>ful and Loyal Subjects, the Knights, Citizens and Burgeſſes of the Houſe of Commons in Parliament Aſſembled, having with all Fidelity and Obedience conſidered of the ſeveral Matters compriſed in Your Majeſties late Gracious Declaration of the 26<hi rend="sup">th</hi> of <hi>December</hi> laſt, and Your moſt Gracious Speech at the beginning of this preſent Seſſion:</p>
+                           <p>Do, in the firſt place for our ſelves, and in
+<pb n="7" facs="tcp:41721:4"/>
+                              <!-- PDF PAGE 60 -->the names of all the Commons of <hi>England,</hi> render to Your Sacred Majeſty, the Tribute of our moſt hearty Thanks, for that infinite Grace and Goodneſs, wherewith Your Ma<g ref="char:EOLhyphen"/>jeſty hath been pleaſed to Publiſh Your Royal Intentions of adhering to Your Act of Indempnity and Oblivion, by a Conſtant and Religious Obſervance of it. And our hearts are further enlarged in theſe returns of Thankſgivings, when we conſider Your Ma<g ref="char:EOLhyphen"/>jeſties moſt Princely and Heroick Profeſſions of relying upon the Affections of Your Peo<g ref="char:EOLhyphen"/>ple, and abhorring all ſort of Military and Arbitrary Rule. But above all, We can never enough remember, to the Honour of Your Majeſties Piety, and our own unſpeak<g ref="char:EOLhyphen"/>able Comfort, thoſe ſolemn and moſt endear<g ref="char:EOLhyphen"/>ing Invitations of us Your Majeſties Subjects, to prepare Laws to be preſented to Your Majeſty, againſt the growth and increaſe of Popery; and withal, to provide more Laws againſt Licentiouſneſs and Impiety; at the ſame time Declaring Your own Reſolutions for maintaining the Act of Uniformity. And it becomes us always to acknowledge and ad<g ref="char:EOLhyphen"/>mire Your Majeſties Wiſdom in this Your Declaration, whereby Your Majeſty is pleaſed to reſolve, not only by Sumptuary Laws, but by Your own Royal Example of Frugality, to reſtrain that exceſs in mens Ex<g ref="char:EOLhyphen"/>penſes,
+<pb n="8" facs="tcp:41721:5"/>
+                              <!-- PDF PAGE 61 -->which is grown ſo general and ſo ex<g ref="char:EOLhyphen"/>orbitant; and to direct our Endeavours to find out fit and proper Laws for Advancement of Trade and Commerce.</p>
+                           <p>After all this we moſt humbly beſeech Your Majeſty to believe, That it is with ex<g ref="char:EOLhyphen"/>tream unwillingneſs and reluctancy of heart, that we are brought to differ from any thing which Your Majeſty hath thought fit to pro<g ref="char:EOLhyphen"/>poſe; And though we do no way doubt, but that the unreaſonable Diſtempers of mens ſpi<g ref="char:EOLhyphen"/>rits, and the many Mutinies and Conſpiracies which were carried on, during the late Inter<g ref="char:EOLhyphen"/>vals of Parliament, did reaſonably incline Your Majeſty to endeavour by Your Decla<g ref="char:EOLhyphen"/>ration to give ſome allay to thoſe ill hu<g ref="char:EOLhyphen"/>mours, till the Parliament Aſſembled; and the hopes of Indulgence, if the Parliament ſhould conſent to it, eſpecially ſeeing the pre<g ref="char:EOLhyphen"/>tenders to this Indulgence, did ſeem to make ſome titles to it, by vertue of Your Majeſties Declaration from <hi>Breda.</hi> Nevertheleſs, we Your Majeſties moſt Dutiful and Loyal Sub<g ref="char:EOLhyphen"/>jects, who are now returned to ſerve in Parlia<g ref="char:EOLhyphen"/>ment,, from thoſe ſeveral parts and places of Your Kingdom, for which we were cho<g ref="char:EOLhyphen"/>ſen, Do humbly offer to Your Majeſties great Wiſdom, That it is in no ſort adviſable that there be any Indulgence to ſuch perſons who preſume to diſſent from the Act of Uniformi<g ref="char:EOLhyphen"/>ty, and the Religion eſtabliſhed,</p>
+                           <p>
+                              <pb n="9" facs="tcp:41721:5"/>
+                              <!-- PDF PAGE 61 -->
+                              <hi>For theſe Reaſons,</hi>
+                              <lb/>
+WE have conſidered the nature of Your Majeſties Declaration from <hi>Breda,</hi> and are humbly of opini<g ref="char:EOLhyphen"/>on, That Your Majeſty ought not to be preſ<g ref="char:EOLhyphen"/>ſed with it any further;</p>
+                           <p>Becauſe it is not a Promiſe in it ſelf, but only a Gracious Declaration of Your Maje<g ref="char:EOLhyphen"/>ſties Intentions, to do what in You lay, and what a Parliament ſhould adviſe Your Maje<g ref="char:EOLhyphen"/>ſtie to do; and no ſuch Advice was ever gi<g ref="char:EOLhyphen"/>ven, or thought fit to be offered, nor could it be otherwiſe underſtood, becauſe there were Laws of Uniformity then in being, which could not be diſpenſed with, but by Act of Parliament.</p>
+                           <p>They who do pretend a Right to that ſup<g ref="char:EOLhyphen"/>poſed Promiſe, put the Right into the hands of their Repreſentatives, whom they choſe to ſerve for them in this Parliament, who have Paſſed, and Your Majeſtie conſented to the Act of Uniformity. If any ſhall preſume to ſay, that a Right to the benefit of this De<g ref="char:EOLhyphen"/>claration doth ſtill remain after this Act Paſſed.</p>
+                           <p>It tends to diſſolve the very Bonds of Go<g ref="char:EOLhyphen"/>vernment, and to ſuppoſe a diſability in Your Majeſty and the Houſes of Parliament, to make a Law contrary to any part of Your
+<pb n="10" facs="tcp:41721:6"/>
+                              <!-- PDF PAGE 62 -->Majeſties Declaration, though both Houſes ſhould adviſe Your Majeſtie to it.</p>
+                           <p>We have alſo conſidered the nature of the Indulgence Propoſed, with reference to thoſe Conſequences, which muſt neceſſarily at<g ref="char:EOLhyphen"/>tend it.</p>
+                           <p>It will eſtabliſh Schiſm by a Law, and make the whole Government of the Church Precarious, and the Cenſures of it of no Mo<g ref="char:EOLhyphen"/>ment or Conſideration at all.</p>
+                           <p>It will no way become the Gravity or Wiſdom of a Parliament, to paſs a Law at one Seſſion for Uniformity, and at the next Seſſion (the reaſons of Uniformity continuing ſtill the ſame) to paſs another Law to fruſtrate or weaken the execution of it.</p>
+                           <p>It will expoſe Your Majeſty to the reſtleſs Importunity of every Sect or Opinion, and of every ſingle perſon: alſo, who ſhall preſume to diſſent from the Church of <hi>England.</hi>
+                           </p>
+                           <p>It will be a cauſe of increaſing Sects and Sectaries, whoſe numbers will weaken the true Proteſtant Profeſſion ſo far, that it will at leaſt be difficult for it, to defend it ſelf againſt them: And, which is yet further conſiderable, thoſe Numbers, which by being troubleſom to the Government, finde they can arrive to an Indulgence, will, as their numbers increaſe, be yet more troubleſom, that ſo at length they may arrive to a general Toleration, which
+<pb n="11" facs="tcp:41721:6"/>
+                              <!-- PDF PAGE 62 -->Your Majeſty hath declared againſt; and in time, ſome prevalent Sect, will at laſt contend for an eſtabliſhment; which, for ought can be foreſeen, may end in Popery.</p>
+                           <p>It is a thing altogether without Precedent, and will take away all means of convicting Re<g ref="char:EOLhyphen"/>cuſants, and be inconſiſtent with the method and proceedings of the Laws of <hi>England.</hi>
+                           </p>
+                           <p>Laſtly, It is humbly conceived, that the In<g ref="char:EOLhyphen"/>dulgence propoſed will be ſo far from tending to the Peace of the Kingdom, that it is ra<g ref="char:EOLhyphen"/>ther likely to occaſion great diſturbance. And on the contrary, That the aſſerting of the Laws, and the Religion eſtabliſht, according to the Act of Uniformity, is the moſt probable means to produce a ſetled Peace and Obedi<g ref="char:EOLhyphen"/>ence throughout Your Kingdom: Becauſe the variety of Profeſſions in Religion, when open<g ref="char:EOLhyphen"/>ly indulged, doth directly diſtinguiſh men in<g ref="char:EOLhyphen"/>to parties, and withal gives them opportuni<g ref="char:EOLhyphen"/>ty to count their numbers; which, conſidering the animoſities, that out of a Religious Pride will be kept on foot by the ſeveral Factions, doth tend directly and inevitably to open di<g ref="char:EOLhyphen"/>ſturbance. Nor can Your Majeſty have any Security, that the Doctrine or Worſhip of the ſeveral Factions, which are all Governed by a ſeveral Rule, ſhall be conſiſtent with the Peace of Your Kingdom.</p>
+                           <pb n="12" facs="tcp:41721:7"/>
+                           <!-- PDF PAGE 63 -->
+                           <p>And if any perſons ſhall preſume to diſturb the Peace of the Kingdom, We do in all hu<g ref="char:EOLhyphen"/>mility declare, that we will for ever, and in all Occaſions, be ready with our utmoſt en<g ref="char:EOLhyphen"/>deavour and aſſiſtance, to adhere to, and ſerve your Majeſty according to our boun<g ref="char:EOLhyphen"/>den Duty and Allegiance.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>The Speakers Report of the Subſtance of His Majeſties Gracious Anſwer.</head>
+                           <p>THat His Majesty gave them hearty Thanks for their many Thanks; That never any King was ſo happy in a Houſe of Commons, as He in this; That the Paper and Reaſons were long, and therefore He would take time to conſider of them, and ſend them a meſſage; That they could never differ but in Judgment, and that muſt be, when He did not rightly expreſs Himſelf; or they did not rightly underſtand Him; but their Intereſt was ſo far linkt together, that they could never diſ<g ref="char:EOLhyphen"/>agree.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill,</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent MAJESTY, 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
